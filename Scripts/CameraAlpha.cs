@@ -34,4 +34,4 @@ public class CameraAlpha : MonoBehaviour
     {
         AlphaBool = !AlphaBool;
     }
-}
+} 
